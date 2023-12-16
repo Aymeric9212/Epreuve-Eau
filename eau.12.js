@@ -19,4 +19,4 @@ if (tableau.some(isNaN)) {
   process.exit(1);
 }
 bubbleSort(tableau);
-console.log(tableau);
+console.log(tableau); 
