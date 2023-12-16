@@ -17,3 +17,4 @@ if (isNaN(min) || isNaN(max)) {
 }
 
 resultat = numeration(min, max);
+ 
