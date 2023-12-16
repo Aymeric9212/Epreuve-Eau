@@ -16,3 +16,4 @@ if (!phrase.trim()) {
 resultat = tableaumodifie.join(" ");
 
 console.log(resultat);
+ 
