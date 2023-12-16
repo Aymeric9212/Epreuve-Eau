@@ -34,4 +34,4 @@ function trieSelection(array){
     process.exit(1)
   }
 
-console.log(trieSelection(tableau))
+console.log(trieSelection(tableau)) 
