@@ -21,3 +21,4 @@ if (tableau.some(isNaN)) {
   console.error("La saisie n'est pas un nombre");
 }
 process.exit(1);
+ 
