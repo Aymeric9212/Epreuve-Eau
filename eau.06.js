@@ -21,3 +21,4 @@ if (!sentence.trim()) {
 let result = majusculesurdeux(sentence);
 
 console.log(result);
+ 
