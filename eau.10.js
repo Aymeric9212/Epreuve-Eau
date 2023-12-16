@@ -31,3 +31,4 @@ if (tableau.length < 2) {
 }
 
 rechercheIndex(tableau, elementRechercher);
+ 
