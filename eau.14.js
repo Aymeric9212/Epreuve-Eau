@@ -15,3 +15,4 @@ if (tableau.length === 0) {
 }
 
 console.log(trieAscii(tableau));
+ 
