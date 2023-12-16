@@ -11,3 +11,4 @@ if (!argument.trim()) {
   console.error("La saisie est vide");
   process.exit(1);
 }
+ 
