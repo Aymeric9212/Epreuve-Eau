@@ -32,4 +32,4 @@ nombre = parseFloat(nombre);
 
 let resultat = ispremiersup(nombre);
 
-console.log(resultat);
+console.log(resultat); 
