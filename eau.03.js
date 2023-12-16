@@ -24,4 +24,4 @@ if (isNaN(position) || position < 0) {
 
 let resultat = fibo(position);
 
-console.log(resultat);
+console.log(resultat); 
