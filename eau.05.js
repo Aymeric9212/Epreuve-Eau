@@ -22,3 +22,4 @@ const sousChaine = "comment";
 const chainePrincipal = "Salut commment çà va ";
 
 recherchechaine(chainePrincipal, sousChaine);
+ 
